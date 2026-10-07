@@ -1,0 +1,5 @@
+<footer class="text-center text-muted small py-3">
+    PSP Student Portal
+</footer>
+</body>
+</html>
